@@ -1,0 +1,31 @@
+היי, אז אני מרכז את הפרטים מהמפגש שלנו היום.
+
+האתגרים:
+ML:
+איך להבדיל בין כיוונים בכביש?
+איך להבדיל בין מכוניות שעוצרות בגלל פקק תנועה או בגלל רמזור?
+
+שונות:
+איך לעשות אינטגרציה עם המצלמות כך שהמידע יישלף באופן אוטומטי
+איך לשמור את המידע
+
+ביצועים:
+לשפר ביצועים של עיבוד פר תמונה: כרגע זה שנייה אחת
+איך לחלק את התמונה לחלקים באופן יעיל
+
+מקורות לקריאה:
+https://github.com/vaibhavsethia/Smart-Traffic-Light
+https://vaibhavsethia.github.io/Smart-Traffic-Light
+https://github.com/srohit0/trafficVision
+https://github.com/JunshengFu/vehicle-detection
+https://github.com/OlafenwaMoses/Traffic-Net
+https://github.com/abidrahmank/OpenCV2-Python-Tutorials
+
+
+
+
+
+
+נקודות להתקדמות:
+לקרוא את המקורות ולהבין מה איזה ספריות יהיו רלוונטיות לנו לפרויקט ואילו לא.
+בתור התחלה לבחור במצלמה של בית חנן (כביש 42 מרכז) ולכתוב קוד שיבין האם המכוניות מעל המהירות הממוצעת (שאותה נבחר באופן שרירותי) או מתחתיה

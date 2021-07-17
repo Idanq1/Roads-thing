@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name":    "TrafficPlaylist",
+    "version": "0.0.0.1",
+    "offline_enabled": false,
+    "browser_action": {
+      "default_title": "Printing"
+    },
+
+    "background": {
+        "persistent": true,
+        "scripts": ["background.js"]
+    },
+
+    "permissions": [
+        "webRequest",
+        "*://*/*"
+    ]
+}
