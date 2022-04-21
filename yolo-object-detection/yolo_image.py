@@ -6,7 +6,7 @@ import imutils
 
 
 def add_boxes(source_image, min_confidence=0.2, threshold=0.7, save=""):
-    yolo_path = "D:\\Python\\cv2\\yolo-object-detection\\yolo-coco"
+    yolo_path = "yolo-coco"
     labels_path = f"{yolo_path}\\coco.names"
     labels = open(labels_path).read().strip().split("\n")
 

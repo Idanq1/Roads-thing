@@ -54,7 +54,6 @@ def update(multi_tracker, cap):
 
 
 def main():
-
     video = "object_tracking_example.mp4"
     cap = cv2.VideoCapture(video)
     frame = cap.read()[1]
@@ -62,3 +61,6 @@ def main():
     multi_tracker = create_trackers(boxes, "kCf", frame)
     update(multi_tracker, cap)
     print("Peace")
+
+
+main()
